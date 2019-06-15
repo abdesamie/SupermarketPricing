@@ -1,0 +1,5 @@
+Instructions to test the solution
+
+the project is implemented in TDD, to test functionality tests are provided in the test package (in Maven terminology)
+to execute the tests, it is only required to execute 
+# mvn test  

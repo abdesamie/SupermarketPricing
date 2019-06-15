@@ -1,0 +1,16 @@
+C:\Users\ABDESSAMIE\workspace\Pricing\src\main\java\supermarket\Item.java
+C:\Users\ABDESSAMIE\workspace\Pricing\src\main\java\supermarket\pricing\Price.java
+C:\Users\ABDESSAMIE\workspace\Pricing\src\main\java\supermarket\Cart.java
+C:\Users\ABDESSAMIE\workspace\Pricing\src\main\java\supermarket\exceptions\EmptyCartException.java
+C:\Users\ABDESSAMIE\workspace\Pricing\src\main\java\supermarket\pricing\ComplexPrice.java
+C:\Users\ABDESSAMIE\workspace\Pricing\src\main\java\supermarket\Quantity.java
+C:\Users\ABDESSAMIE\workspace\Pricing\src\main\java\supermarket\promotion\XBoughtYDiscount.java
+C:\Users\ABDESSAMIE\workspace\Pricing\src\main\java\supermarket\promotion\DirectDiscount.java
+C:\Users\ABDESSAMIE\workspace\Pricing\src\main\java\supermarket\pricing\WeightPrice.java
+C:\Users\ABDESSAMIE\workspace\Pricing\src\main\java\supermarket\promotion\Promotion.java
+C:\Users\ABDESSAMIE\workspace\Pricing\src\main\java\supermarket\promotion\XBoughtYFree.java
+C:\Users\ABDESSAMIE\workspace\Pricing\src\main\java\supermarket\utility\CartInvoiceFormatter.java
+C:\Users\ABDESSAMIE\workspace\Pricing\src\main\java\supermarket\exceptions\InconsistentQuantityException.java
+C:\Users\ABDESSAMIE\workspace\Pricing\src\main\java\supermarket\pricing\SimplePrice.java
+C:\Users\ABDESSAMIE\workspace\Pricing\src\main\java\supermarket\SuperMarket.java
+C:\Users\ABDESSAMIE\workspace\Pricing\src\main\java\supermarket\utility\StringUtility.java
